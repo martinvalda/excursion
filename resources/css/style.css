@@ -44,3 +44,7 @@ video {
   max-height:100%;
   vertical-align: middle;
 }
+
+#footer {
+  text-align: right;
+}
